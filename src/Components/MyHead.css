@@ -1,0 +1,15 @@
+.myHead{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(30px + 2vmin);
+  background: #98c1d9;
+  color:#a4133c;
+}
+
+.content{
+    font-family: Brush Script MT, Brush Script Std, cursive	;
+    font-size: 0pt;
+    text-align: center;
+    font-size: 60px;
+}

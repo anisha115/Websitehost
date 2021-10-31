@@ -1,0 +1,31 @@
+.div-login{
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10vh;
+    background-color:#00afb9 ;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+input{
+    width:95%;
+    border:1px solid;
+    padding: 5px;
+    margin:2px 0;
+    border-radius: 5px;
+    box-shadow: 10px;
+}
+
+button{
+    width:50%;
+    margin: 5px 0;
+    background-color: #e0fbfc;
+    padding: 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,18 @@
+.wContent{
+    font-family: Brush Script MT, Brush Script Std, cursive	;
+    font-size: 30px;
+    color: #faa307;
+    border-style: solid;
+    border-radius:6px ;
+    border-color:gray;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.vid-page{
+    background-color: #264653;
+}
