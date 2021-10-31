@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Websitehost/static/css/main.e8366b15.chunk.css",
+    "main.js": "/Websitehost/static/js/main.4674fdae.chunk.js",
+    "main.js.map": "/Websitehost/static/js/main.4674fdae.chunk.js.map",
+    "runtime-main.js": "/Websitehost/static/js/runtime-main.0850c9a3.js",
+    "runtime-main.js.map": "/Websitehost/static/js/runtime-main.0850c9a3.js.map",
+    "static/js/2.70a6fa36.chunk.js": "/Websitehost/static/js/2.70a6fa36.chunk.js",
+    "static/js/2.70a6fa36.chunk.js.map": "/Websitehost/static/js/2.70a6fa36.chunk.js.map",
+    "static/js/3.3417cd12.chunk.js": "/Websitehost/static/js/3.3417cd12.chunk.js",
+    "static/js/3.3417cd12.chunk.js.map": "/Websitehost/static/js/3.3417cd12.chunk.js.map",
+    "index.html": "/Websitehost/index.html",
+    "static/css/main.e8366b15.chunk.css.map": "/Websitehost/static/css/main.e8366b15.chunk.css.map",
+    "static/js/2.70a6fa36.chunk.js.LICENSE.txt": "/Websitehost/static/js/2.70a6fa36.chunk.js.LICENSE.txt",
+    "static/media/Birthday.1c86fb75.mp4": "/Websitehost/static/media/Birthday.1c86fb75.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0850c9a3.js",
+    "static/js/2.70a6fa36.chunk.js",
+    "static/css/main.e8366b15.chunk.css",
+    "static/js/main.4674fdae.chunk.js"
+  ]
+}
